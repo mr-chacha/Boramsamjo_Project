@@ -5,5 +5,5 @@
 - 회원가입, 로그인을 할 수 있음.
 - 프로필 수정을 할 수 있음.
 - DB와 웹사이트를 배포하였음.
-#Skil
+# Skil
 - React, Redux, ,Redux-toolkit, Redux-Thunk, Axios, db.json
